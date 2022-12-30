@@ -2,8 +2,8 @@ apiVersion: v2
 name: moodbot
 description: A Helm chart for Kubernetes
 maintainers:
-- name: John Trammell
-- email: john.trammell@gmail.com
+- name: trammell
+  email: john.trammell@gmail.com
 
 # A chart can be either an 'application' or a 'library' chart.
 #
