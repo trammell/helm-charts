@@ -1,0 +1,4 @@
+
+brew install chart-testing yamllint
+ct lint --all
+
