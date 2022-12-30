@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  moodbot:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-30T10:30:33.788885-06:00"
+    description: A Helm chart for Kubernetes
+    digest: a871290b4a51a9be22eefbc67151fe18b2817cf1088f9a198e5669ce67f91b5b
+    name: moodbot
+    type: application
+    urls:
+    - https://github.com/trammell/helm-charts/releases/download/moodbot-0.1.0/moodbot-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-30T10:30:33.788901-06:00"
